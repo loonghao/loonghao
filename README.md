@@ -1,16 +1,17 @@
-### Hi there 👋
+<p align="center">
+<img src="https://github.com/loonghao/loonghao/blob/master/header.png" alt="I'm Hal" />
+</p>
 
-<!--
-**loonghao/loonghao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+<a href="https://www.linkedin.com/in/hal-long/">
+<img src="https://img.shields.io/badge/-LinkedIn-%233781da" alt="LinkedIn"/></a> 
+<a href="https://www.imdb.com/name/nm7805574/?ref_=ra_gb_ln">
+<img src="https://img.shields.io/badge/%20-IMDB-orange" alt="IMDB"/></a> 
+<a href="https://vimeo.com/loong">
+<img src="https://img.shields.io/badge/%20-Vimeo-blue" alt="Vimeo" /></a> 
+</p>
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on PIXOMONDO.
+- 🌱 I’m currently learning TensorFlow and Unreal Engine.
