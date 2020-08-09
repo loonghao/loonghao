@@ -11,7 +11,5 @@
 <img src="https://img.shields.io/badge/%20-Vimeo-blue" alt="Vimeo" /></a> 
 </p>
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on PIXOMONDO.
 - 🌱 I’m currently learning TensorFlow and Unreal Engine.
