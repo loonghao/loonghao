@@ -17,9 +17,10 @@
 <p align="center">
 	Python · Maya · Houdini · Nuke · 3dsmax · Mari · Clarisse · Photoshop
 </p>
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=loonghao&show_icons=true&theme=highcontrast"]
-</img>
+
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/loonghao/count.svg" />
 </p>
 
 # Hello there! 👋🏻
