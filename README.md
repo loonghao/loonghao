@@ -28,7 +28,7 @@
 
 # Hello there! 👋🏻  
 
-Hi, I'm Hal and I am a Pipeline TD/TA based in Hangzhou.
+Hi, I'm Hal and I am a Pipeline TD/TA based in Shenzhen.
 
 Have nearly 8 years of Visual Effects industry experience, 5 years experience working with the APIs of industry-standard applications such as Maya, Houdini, Nuke, etc, Have 4 years’ team-based programming and code review experience, Have more than 2 years of experience in global collaborative development, Excellent problem-solving and troubleshooting, Strong software design and engineering skills, familiarity with design patterns and their appropriate use.
 
