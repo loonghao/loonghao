@@ -30,9 +30,8 @@
 
 Hi, I'm Hal and I am a Pipeline TD/TA based in Shenzhen.
 
-Have nearly 8 years of Visual Effects industry experience, 5 years experience working with the APIs of industry-standard applications such as Maya, Houdini, Nuke, etc, Have 4 years’ team-based programming and code review experience, Have more than 2 years of experience in global collaborative development, Excellent problem-solving and troubleshooting, Strong software design and engineering skills, familiarity with design patterns and their appropriate use.
-
-I’m currently learning TensorFlow and Unreal Engine.
+Have nearly 10 years of Visual Effects and Game Development industry experience, 7 years experience working with the APIs of industry-standard applications such as Maya, Houdini, Nuke, etc, Have 5 years’ team-based programming and code review experience, Have more than 2 years of experience in global collaborative development, Excellent problem-solving and troubleshooting, Strong software design and engineering skills, familiarity with design patterns and their appropriate use,
+Good at CI/CD and Docker automation for agile development Continuous delivery.
 
 <p align="center">
 	<img src="https://github-readme-stats.vercel.app/api/?username=loonghao&show_icons=true&title_color=3380C4&icon_color=3380C4&text_color=edf2f7&bg_color=151515"></img>
