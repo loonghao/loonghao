@@ -12,8 +12,8 @@
 
 ## 🚀 About Me
 
-- 🎮 Pipeline TD/TA with 10+ years in VFX and Game Development
-- 🛠️ 7+ years working with Maya, 3Dsmax, Houdini, Nuke APIs
+- 🎮 Pipeline TD/TA with 12+ years in VFX and Game Development
+- 🛠️ 8+ years working with Maya, 3DMax, Houdini, Nuke APIs
 - 👥 5+ years team-based programming and code review
 - 🌍 2+ years global collaborative development experience
 - 🔄 Expert in CI/CD and Docker automation
@@ -63,21 +63,6 @@
 [![webhook-bridge](https://custom-icon-badges.demolab.com/badge/webhook--bridge-2088FF?style=for-the-badge&logo=webhook&logoColor=white&labelColor=2088FF)](https://github.com/loonghao/webhook_bridge)
 [![notifiers-wecom](https://custom-icon-badges.demolab.com/badge/notifiers--wecom-07C160?style=for-the-badge&logo=wechat&logoColor=white&labelColor=07C160)](https://github.com/loonghao/notifiers_wecom_provider)
 
-<details>
-<summary>📦 项目描述</summary>
-
-- **maya_umbrella**: Maya 插件管理器，支持热重载和依赖管理
-- **maya_umbrella_scanner**: Maya 插件扫描工具，用于检测和管理插件依赖
-- **photoshop_python_api**: Photoshop Python API，支持自动化和批处理
-- **vexcle**: Houdini VEX 代码编辑器和管理工具
-- **transx**: 文件传输和同步工具，支持多种协议
-- **portable_rez**: 便携式 Rez 包管理系统
-- **entity_addict**: 高性能实体属性访问库
-- **persistent_ssh_agent**: 持久化 SSH 代理管理工具
-- **webhook_bridge**: Webhook 转发和管理服务
-- **notifiers_wecom_provider**: 企业微信通知提供程序
-
-</details>
 
 ## 📊 GitHub Stats
 
