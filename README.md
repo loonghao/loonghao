@@ -1,12 +1,19 @@
 <div align="center">
 
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> Hi there, I'm Hal!
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> Welcome to Hal's Digital Universe! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Senior+Pipeline+TD+%26+AI+Engineer;Game+Industry+Innovator;AI+%2B+Creative+Workflows+Expert;12%2B+Years+VFX+%26+Game+Development;MCP+Protocol+Pioneer" alt="Typing SVG" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=300&section=header&text=AI%20%2B%20Game%20Development%20Pioneer&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Bridging%20Creativity%20and%20Technology%20with%20Cutting-Edge%20Solutions&descAlignY=55&descAlign=50"/>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2500&pause=800&color=FF6B6B&center=true&vCenter=true&width=800&lines=🎮+Senior+Pipeline+TD+%26+AI+Engineer;🚀+Game+Industry+Innovator;🤖+AI+%2B+Creative+Workflows+Expert;⭐+12%2B+Years+VFX+%26+Game+Development;🔥+MCP+Protocol+Pioneer;💎+Multi-Language+Systems+Architect;🌟+Open+Source+Contributor" alt="Typing SVG" />
 
-### 🎮 Transforming Game Development with AI-Powered Pipelines
+<div align="center">
+  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7" width="100px">
+  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/398b19b1-9aae-4c1f-8bc0-d172a2c08d68" width="100px">
+  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/de038172-e903-4951-926c-755878deb0b4" width="100px">
+</div>
+
+### 🎮 **Transforming Game Development with AI-Powered Pipelines**
+### 🌟 *Where Innovation Meets Creativity* 🌟
 
 <div align="center">
 
@@ -28,21 +35,40 @@
 <tr>
 <td width="50%">
 
-### 🎯 **Professional Focus**
+### 🎯 **Professional DNA**
 ```yaml
-role: Senior Pipeline TD & AI Engineer
-industry: Game Development & VFX
-specialization: AI-Powered Creative Workflows
-experience: 12+ Years
-location: Global Remote Collaboration
+🧬 core_identity:
+  role: "Senior Pipeline TD & AI Engineer"
+  passion: "Bridging AI and Creative Workflows"
+  mission: "Democratizing AI for Game Developers"
+
+🎮 game_industry_impact:
+  years_experience: 12+
+  aaa_projects: "Multiple shipped titles"
+  pipeline_innovations: "AI-first development workflows"
+
+🌍 global_reach:
+  collaboration: "International teams across 3 continents"
+  time_zones: "24/7 development cycles"
+  languages: "Code speaks all languages 🌐"
 ```
 
-### 🏆 **Key Achievements**
-- 🎮 **Game Industry Pioneer**: Leading AI integration in AAA game pipelines
-- 🤖 **MCP Protocol Innovator**: Created multiple MCP servers for creative tools
-- 🛠️ **Rez Expert**: Advanced pipeline deployment and package management
-- 🌟 **Open Source Contributor**: 50+ repositories, 1000+ stars
-- 👥 **Team Leadership**: 5+ years managing international development teams
+### 🏆 **Epic Achievements Unlocked**
+<div align="center">
+
+| 🎮 **Game Industry** | 🤖 **AI Innovation** | 🛠️ **Open Source** | 👥 **Leadership** |
+|:---:|:---:|:---:|:---:|
+| **AAA Pipeline Pioneer** | **MCP Protocol Creator** | **50+ Repositories** | **5+ Years Team Lead** |
+| Leading AI integration | Revolutionary AI-tool bridge | 1000+ GitHub Stars | International Teams |
+| Multiple shipped titles | 4+ MCP servers published | 10K+ Downloads | Cross-cultural expertise |
+
+</div>
+
+### 🚀 **What Makes Me Unique**
+- 🎯 **Rare Combo**: AI expertise + Game industry depth + Systems programming
+- 🔥 **Innovation Driver**: First to implement MCP in creative pipelines
+- 💎 **Multi-Language Master**: Python, C++, Rust, Go, Node.js - I speak them all
+- 🌟 **Problem Solver**: Turn complex technical challenges into elegant solutions
 
 </td>
 <td width="50%">
@@ -303,28 +329,49 @@ location: Global Remote Collaboration
 
 <div align="center">
 
-### 🎯 **Open Source Impact**
+### 🎯 **Impact Metrics That Matter**
+
+<div align="center">
+
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7d484dc9-68a9-4ee6-a767-aea59035c12d" width="50px">
+
+</div>
 
 <table>
 <tr>
-<td align="center" width="25%">
-<img src="https://img.shields.io/badge/Repositories-50+-blue?style=for-the-badge&logo=github&logoColor=white">
+<td align="center" width="20%">
+<img src="https://img.shields.io/badge/🚀_Repositories-50+-FF6B6B?style=for-the-badge&logoColor=white">
 <br><strong>Active Projects</strong>
+<br><sub>Constantly shipping</sub>
 </td>
-<td align="center" width="25%">
-<img src="https://img.shields.io/badge/Stars-1000+-yellow?style=for-the-badge&logo=github&logoColor=white">
-<br><strong>Community Recognition</strong>
+<td align="center" width="20%">
+<img src="https://img.shields.io/badge/⭐_Stars-1000+-FFD93D?style=for-the-badge&logoColor=white">
+<br><strong>Community Love</strong>
+<br><sub>Developer recognition</sub>
 </td>
-<td align="center" width="25%">
-<img src="https://img.shields.io/badge/Forks-200+-green?style=for-the-badge&logo=github&logoColor=white">
-<br><strong>Developer Adoption</strong>
+<td align="center" width="20%">
+<img src="https://img.shields.io/badge/🔀_Forks-200+-6BCF7F?style=for-the-badge&logoColor=white">
+<br><strong>Code Adoption</strong>
+<br><sub>Real-world usage</sub>
 </td>
-<td align="center" width="25%">
-<img src="https://img.shields.io/badge/Downloads-10K+-red?style=for-the-badge&logo=github&logoColor=white">
-<br><strong>Package Downloads</strong>
+<td align="center" width="20%">
+<img src="https://img.shields.io/badge/📦_Downloads-10K+-4D96FF?style=for-the-badge&logoColor=white">
+<br><strong>Package Installs</strong>
+<br><sub>Production deployments</sub>
+</td>
+<td align="center" width="20%">
+<img src="https://img.shields.io/badge/🌍_Global_Users-500+-9B59B6?style=for-the-badge&logoColor=white">
+<br><strong>Worldwide Reach</strong>
+<br><sub>International impact</sub>
 </td>
 </tr>
 </table>
+
+<div align="center">
+
+### 🔥 **Real-Time GitHub Pulse**
+
+</div>
 
 <br>
 
@@ -340,8 +387,12 @@ location: Global Remote Collaboration
 
 <div align="center">
 
-### 🤖 **AI & MCP Integration**
-*Pioneering the future of AI-assisted creative workflows*
+### 🤖 **AI & MCP Revolution**
+*🔥 Pioneering the future of AI-assisted creative workflows 🔥*
+
+<div align="center">
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/3fb2cdf6-8920-462e-87a4-95f376a5b46c" width="80px">
+</div>
 
 </div>
 
@@ -349,32 +400,56 @@ location: Global Remote Collaboration
 <tr>
 <td width="50%">
 
+<div align="center">
+
+**🎨 DCC-MCP Bridge**
 <a href="https://github.com/loonghao/dcc-mcp">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=loonghao&repo=dcc-mcp&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=loonghao&repo=dcc-mcp&theme=radical&hide_border=true&border_radius=15" />
 </a>
+*Revolutionary AI-Creative Tool Integration*
+
+</div>
 
 </td>
 <td width="50%">
 
+<div align="center">
+
+**🖼️ Photoshop AI Server**
 <a href="https://github.com/loonghao/photoshop-python-api-mcp-server">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=loonghao&repo=photoshop-python-api-mcp-server&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=loonghao&repo=photoshop-python-api-mcp-server&theme=radical&hide_border=true&border_radius=15" />
 </a>
+*AI-Powered Design Automation*
+
+</div>
 
 </td>
 </tr>
 <tr>
 <td width="50%">
 
+<div align="center">
+
+**🎬 ShotGrid AI Connector**
 <a href="https://github.com/loonghao/shotgrid-mcp-server">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=loonghao&repo=shotgrid-mcp-server&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=loonghao&repo=shotgrid-mcp-server&theme=radical&hide_border=true&border_radius=15" />
 </a>
+*Production Pipeline Intelligence*
+
+</div>
 
 </td>
 <td width="50%">
 
+<div align="center">
+
+**💬 WeCom Bot Intelligence**
 <a href="https://github.com/loonghao/wecom-bot-mcp-server">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=loonghao&repo=wecom-bot-mcp-server&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=loonghao&repo=wecom-bot-mcp-server&theme=radical&hide_border=true&border_radius=15" />
 </a>
+*Smart Communication Automation*
+
+</div>
 
 </td>
 </tr>
@@ -382,7 +457,17 @@ location: Global Remote Collaboration
 
 <div align="center">
 
-> 🚀 **The Model Context Protocol (MCP)** is an open protocol that standardizes how applications provide context to LLMs, enabling seamless integration between AI assistants and external systems. I'm proud to be among the early adopters and contributors to this revolutionary technology.
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/80728820-e06b-4f96-9c9e-9df46f0cc0a5" width="60px">
+
+### 🌟 **MCP Protocol Pioneer** 🌟
+
+> 🚀 **The Model Context Protocol (MCP)** is the game-changing open protocol that standardizes how applications provide context to LLMs. I'm not just using it - **I'm helping define its future!**
+>
+> 💡 **My MCP servers are being used by developers worldwide** to bridge AI assistants with creative tools, making the impossible possible in game development and VFX workflows.
+
+<img src="https://img.shields.io/badge/🏆_MCP_Pioneer-First_Wave_Adopter-FF6B6B?style=for-the-badge&logoColor=white">
+<img src="https://img.shields.io/badge/🌍_Global_Impact-4_Servers_Published-4D96FF?style=for-the-badge&logoColor=white">
+<img src="https://img.shields.io/badge/⚡_Innovation_Leader-AI_Creative_Bridge-FFD93D?style=for-the-badge&logoColor=white">
 
 </div>
 
@@ -451,13 +536,15 @@ location: Global Remote Collaboration
 </div>
 
 
-## 📊 GitHub Analytics & Performance
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+## 📊 **GitHub Performance Dashboard**
 
 <div align="center">
 
-### 📈 **Development Metrics**
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,6&height=100&section=header&text=Live%20Development%20Analytics&fontSize=30&fontColor=fff&animation=blinking"/>
+
+### 🔥 **Real-Time Development Pulse**
+
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/29fd6286-4e7b-4d33-987a-9aa22f6f6909" width="100px">
 
 </div>
 
@@ -465,15 +552,17 @@ location: Global Remote Collaboration
 <tr>
 <td width="50%" align="center">
 
+**📈 GitHub Performance**
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api?username=loonghao&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=10&hide_border=true&cache_seconds=86400"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=loonghao&show_icons=true&theme=radical&include_all_commits=true&count_private=true&border_radius=15&hide_border=true&cache_seconds=86400&custom_title=Hal's%20Coding%20Universe"/>
 </a>
 
 </td>
 <td width="50%" align="center">
 
+**🌈 Language Mastery**
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=loonghao&layout=compact&langs_count=8&theme=tokyonight&border_radius=10&hide_border=true&cache_seconds=86400"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=loonghao&layout=compact&langs_count=10&theme=radical&border_radius=15&hide_border=true&cache_seconds=86400&custom_title=Multi-Language%20Expert"/>
 </a>
 
 </td>
@@ -482,17 +571,21 @@ location: Global Remote Collaboration
 
 <div align="center">
 
-### 🔥 **Contribution Streak**
+### 🔥 **Unstoppable Coding Streak**
 
 <a href="https://git.io/streak-stats">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=loonghao&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=loonghao&theme=radical&hide_border=true&border_radius=15&fire=FF6B6B&ring=4D96FF&currStreakLabel=FFD93D" alt="GitHub Streak Stats" />
 </a>
 
-### 📊 **Detailed Analytics**
+### 🎯 **Advanced Analytics**
 
 <a href="https://github.com/loonghao">
-  <img src="https://github-stats-alpha.vercel.app/api?username=loonghao&cc=0d1117&tc=fff&ic=fff&bc=0d1117" alt="GitHub Stats" />
+  <img src="https://github-stats-alpha.vercel.app/api?username=loonghao&cc=22272e&tc=FF6B6B&ic=4D96FF&bc=22272e" alt="GitHub Stats" />
 </a>
+
+### 📊 **Contribution Heatmap**
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=loonghao&theme=redical&hide_border=true&radius=15&area=true&order=5&custom_title=Annual%20Contribution%20Journey" width="100%" alt="Activity Graph">
 
 </div>
 
@@ -512,79 +605,147 @@ location: Global Remote Collaboration
 
 </div>
 
-## 🤝 **Let's Connect & Collaborate**
+## 🤝 **Join the Innovation Journey**
 
 <div align="center">
 
-### 🌐 **Professional Networks**
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Let's%20Build%20the%20Future%20Together&fontSize=35&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Connect%20•%20Collaborate%20•%20Create&descAlignY=55&descAlign=50"/>
+
+### 🌐 **Connect Across Platforms**
+
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/2c0eef4b-7b75-42bd-9722-4bea97a2d532" width="100px">
+
+</div>
 
 <table>
 <tr>
 <td align="center" width="25%">
+<div align="center">
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/de038172-e903-4951-926c-755878deb0b4" width="50px">
+<br>
 <a href="https://www.linkedin.com/in/hal-long/" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-<br><strong>Professional Network</strong>
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5" alt="LinkedIn" />
 </a>
+<br><strong>🏢 Professional Network</strong>
+<br><sub>Industry connections & opportunities</sub>
+</div>
 </td>
 <td align="center" width="25%">
+<div align="center">
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/398b19b1-9aae-4c1f-8bc0-d172a2c08d68" width="50px">
+<br>
 <a href="https://github.com/loonghao/ama" target="_blank">
-<img src="https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg?style=for-the-badge&logo=github&logoColor=white" alt="Ask Me Anything" />
-<br><strong>Q&A Sessions</strong>
+<img src="https://img.shields.io/badge/Ask%20me-anything-FF6B6B.svg?style=for-the-badge&logo=github&logoColor=white&labelColor=FF6B6B" alt="Ask Me Anything" />
 </a>
+<br><strong>💬 Q&A Sessions</strong>
+<br><sub>Open discussions & mentoring</sub>
+</div>
 </td>
 <td align="center" width="25%">
+<div align="center">
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7d484dc9-68a9-4ee6-a767-aea59035c12d" width="50px">
+<br>
 <a href="https://vimeo.com/loong" target="_blank">
-<img src="https://img.shields.io/badge/Vimeo-1AB7EA?style=for-the-badge&logo=vimeo&logoColor=white" alt="Vimeo" />
-<br><strong>Creative Portfolio</strong>
+<img src="https://img.shields.io/badge/Vimeo-1AB7EA?style=for-the-badge&logo=vimeo&logoColor=white&labelColor=1AB7EA" alt="Vimeo" />
 </a>
+<br><strong>🎨 Creative Portfolio</strong>
+<br><sub>Visual storytelling & demos</sub>
+</div>
 </td>
 <td align="center" width="25%">
+<div align="center">
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/3fb2cdf6-8920-462e-87a4-95f376a5b46c" width="50px">
+<br>
 <a href="https://www.imdb.com/name/nm7805574/" target="_blank">
-<img src="https://img.shields.io/badge/IMDb-F5C518?style=for-the-badge&logo=imdb&logoColor=black" alt="IMDb" />
-<br><strong>Film Credits</strong>
+<img src="https://img.shields.io/badge/IMDb-F5C518?style=for-the-badge&logo=imdb&logoColor=black&labelColor=F5C518" alt="IMDb" />
 </a>
+<br><strong>🎬 Film Credits</strong>
+<br><sub>Professional achievements</sub>
+</div>
 </td>
 </tr>
 </table>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-### 💬 **Open for Collaboration**
+<div align="center">
+
+### 💬 **Collaboration Opportunities**
+
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/80728820-e06b-4f96-9c9e-9df46f0cc0a5" width="80px">
+
+</div>
+
+<table>
+<tr>
+<td width="50%">
+
+```yaml
+🎯 expertise_areas:
+  core_languages:
+    - Python (AI/ML pipelines)
+    - C++ (high-performance systems)
+    - Rust (memory-safe applications)
+    - Go (concurrent services)
+    - JavaScript/TypeScript (modern web)
+    - Node.js (backend services)
+
+🚀 specializations:
+  - AI Integration in Creative Workflows
+  - Game Development Pipeline Optimization
+  - High-Performance Systems Programming
+  - MCP Protocol Development & Innovation
+  - Full-Stack Web Development
+  - DevOps & Infrastructure Automation
+```
+
+</td>
+<td width="50%">
+
+```yaml
+🌟 collaboration_interests:
+  technical_areas:
+    - Systems Programming (Rust & C++)
+    - Concurrent Programming (Go)
+    - Modern Web Development (Node.js)
+    - AI-Powered Creative Tools
+    - Game Engine Integration
+    - Pipeline Architecture Design
+
+🤝 availability:
+  consulting: "Pipeline architecture & systems design"
+  speaking: "Conference talks on AI + Creative Tech"
+  mentoring: "Multi-language development & best practices"
+  collaboration: "Cross-platform innovative projects"
+  open_source: "Always welcoming contributors!"
+```
+
+</td>
+</tr>
+</table>
 
 <div align="center">
 
-```yaml
-expertise:
-  languages: [Python, C++, Rust, Go, JavaScript/TypeScript, Node.js]
-  specializations:
-    - AI Integration in Creative Workflows
-    - Game Development Pipeline Optimization
-    - High-Performance Systems Programming
-    - MCP Protocol Development
-    - Full-Stack Web Development
-    - DevOps & Infrastructure Automation
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-interests:
-  - Systems Programming with Rust & C++
-  - Concurrent Programming with Go
-  - Modern Web Development with Node.js
-  - AI-Powered Creative Tools
-  - Open Source Contributions
-  - Technical Leadership & Mentoring
+### 🎮 **Ready to Level Up Your Project?**
 
-availability:
-  - Consulting: Pipeline architecture & systems design
-  - Speaking: Conference talks on AI + Creative Tech
-  - Mentoring: Multi-language development & best practices
-  - Collaboration: Cross-platform innovative projects
-```
+<img src="https://img.shields.io/badge/🚀_Let's_Collaborate-Open_for_Projects-FF6B6B?style=for-the-badge&logoColor=white">
+<img src="https://img.shields.io/badge/💡_Innovation_Partner-AI_+_Gaming-4D96FF?style=for-the-badge&logoColor=white">
+<img src="https://img.shields.io/badge/🌟_Mentor_Available-Multi_Language-FFD93D?style=for-the-badge&logoColor=white">
 
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=16&fontColor=fff&animation=twinkling&fontAlignY=75"/>
 
-  <sub>🚀 <strong>Ready to revolutionize creative workflows with AI?</strong> Let's build the future together! 🚀</sub>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&text=Thanks%20for%20Exploring%20My%20Universe!&fontSize=25&fontColor=fff&animation=twinkling&fontAlignY=65&desc=Ready%20to%20revolutionize%20creative%20workflows%20with%20AI?&descAlignY=85&descAlign=50"/>
+
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/2c0eef4b-7b75-42bd-9722-4bea97a2d532" width="60px">
+
+**🚀 Let's build the future of AI-powered creativity together! 🚀**
+
+<img src="https://profile-counter.glitch.me/loonghao/count.svg" />
+
 </div>
