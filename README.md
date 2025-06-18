@@ -7,9 +7,9 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2500&pause=800&color=FF6B6B&center=true&vCenter=true&width=800&lines=🎮+Senior+Pipeline+TD+%26+AI+Engineer;🚀+Game+Industry+Innovator;🤖+AI+%2B+Creative+Workflows+Expert;⭐+12%2B+Years+VFX+%26+Game+Development;🔥+MCP+Protocol+Pioneer;💎+Multi-Language+Systems+Architect;🌟+Open+Source+Contributor" alt="Typing SVG" />
 
 <div align="center">
-  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7" width="100px">
-  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/398b19b1-9aae-4c1f-8bc0-d172a2c08d68" width="100px">
-  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/de038172-e903-4951-926c-755878deb0b4" width="100px">
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="80px">
+  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="80px">
+  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="80px">
 </div>
 
 ### 🎮 **Transforming Game Development with AI-Powered Pipelines**
@@ -31,9 +31,7 @@
 
 ## 🚀 About Me
 
-<table>
-<tr>
-<td width="50%">
+<div align="center">
 
 ### 🎯 **Professional DNA**
 ```yaml
@@ -54,7 +52,6 @@
 ```
 
 ### 🏆 **Epic Achievements Unlocked**
-<div align="center">
 
 | 🎮 **Game Industry** | 🤖 **AI Innovation** | 🛠️ **Open Source** | 👥 **Leadership** |
 |:---:|:---:|:---:|:---:|
@@ -62,15 +59,16 @@
 | Leading AI integration | Revolutionary AI-tool bridge | 1000+ GitHub Stars | International Teams |
 | Multiple shipped titles | 4+ MCP servers published | 10K+ Downloads | Cross-cultural expertise |
 
-</div>
-
 ### 🚀 **What Makes Me Unique**
 - 🎯 **Rare Combo**: AI expertise + Game industry depth + Systems programming
 - 🔥 **Innovation Driver**: First to implement MCP in creative pipelines
 - 💎 **Multi-Language Master**: Python, C++, Rust, Go, Node.js - I speak them all
 - 🌟 **Problem Solver**: Turn complex technical challenges into elegant solutions
 
-</td>
+</div>
+
+<table>
+<tr>
 <td width="50%">
 
 ### 💻 **Technical Expertise**
@@ -84,6 +82,11 @@
 - Modern tooling: UV, Tox, Nox, Poetry
 - Testing: PyTest, Coverage, Ruff
 - Frameworks: FastAPI, Django, Flask
+
+</td>
+<td width="50%">
+
+### 🌟 **Advanced Skills**
 
 **💻 Systems Programming**
 - C++: High-performance applications
@@ -333,7 +336,7 @@
 
 <div align="center">
 
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7d484dc9-68a9-4ee6-a767-aea59035c12d" width="50px">
+<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="50px">
 
 </div>
 
@@ -391,7 +394,7 @@
 *🔥 Pioneering the future of AI-assisted creative workflows 🔥*
 
 <div align="center">
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/3fb2cdf6-8920-462e-87a4-95f376a5b46c" width="80px">
+<img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="80px">
 </div>
 
 </div>
@@ -457,7 +460,7 @@
 
 <div align="center">
 
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/80728820-e06b-4f96-9c9e-9df46f0cc0a5" width="60px">
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="60px">
 
 ### 🌟 **MCP Protocol Pioneer** 🌟
 
@@ -544,7 +547,7 @@
 
 ### 🔥 **Real-Time Development Pulse**
 
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/29fd6286-4e7b-4d33-987a-9aa22f6f6909" width="100px">
+<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="100px">
 
 </div>
 
@@ -613,7 +616,7 @@
 
 ### 🌐 **Connect Across Platforms**
 
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/2c0eef4b-7b75-42bd-9722-4bea97a2d532" width="100px">
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="100px">
 
 </div>
 
@@ -621,7 +624,7 @@
 <tr>
 <td align="center" width="25%">
 <div align="center">
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/de038172-e903-4951-926c-755878deb0b4" width="50px">
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50px">
 <br>
 <a href="https://www.linkedin.com/in/hal-long/" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5" alt="LinkedIn" />
@@ -632,7 +635,7 @@
 </td>
 <td align="center" width="25%">
 <div align="center">
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/398b19b1-9aae-4c1f-8bc0-d172a2c08d68" width="50px">
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="50px">
 <br>
 <a href="https://github.com/loonghao/ama" target="_blank">
 <img src="https://img.shields.io/badge/Ask%20me-anything-FF6B6B.svg?style=for-the-badge&logo=github&logoColor=white&labelColor=FF6B6B" alt="Ask Me Anything" />
@@ -643,7 +646,7 @@
 </td>
 <td align="center" width="25%">
 <div align="center">
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7d484dc9-68a9-4ee6-a767-aea59035c12d" width="50px">
+<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="50px">
 <br>
 <a href="https://vimeo.com/loong" target="_blank">
 <img src="https://img.shields.io/badge/Vimeo-1AB7EA?style=for-the-badge&logo=vimeo&logoColor=white&labelColor=1AB7EA" alt="Vimeo" />
@@ -654,7 +657,7 @@
 </td>
 <td align="center" width="25%">
 <div align="center">
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/3fb2cdf6-8920-462e-87a4-95f376a5b46c" width="50px">
+<img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="50px">
 <br>
 <a href="https://www.imdb.com/name/nm7805574/" target="_blank">
 <img src="https://img.shields.io/badge/IMDb-F5C518?style=for-the-badge&logo=imdb&logoColor=black&labelColor=F5C518" alt="IMDb" />
@@ -672,7 +675,7 @@
 
 ### 💬 **Collaboration Opportunities**
 
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/80728820-e06b-4f96-9c9e-9df46f0cc0a5" width="80px">
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="80px">
 
 </div>
 
@@ -742,7 +745,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&text=Thanks%20for%20Exploring%20My%20Universe!&fontSize=25&fontColor=fff&animation=twinkling&fontAlignY=65&desc=Ready%20to%20revolutionize%20creative%20workflows%20with%20AI?&descAlignY=85&descAlign=50"/>
 
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/2c0eef4b-7b75-42bd-9722-4bea97a2d532" width="60px">
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60px">
 
 **🚀 Let's build the future of AI-powered creativity together! 🚀**
 
